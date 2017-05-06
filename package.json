@@ -1,0 +1,14 @@
+{
+  "name": "mathews-bot",
+  "version": "1.0.0",
+  "description": "A bot made to learn how to use AWS products",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mathew Leland",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
